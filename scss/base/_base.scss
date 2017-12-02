@@ -1,3 +1,9 @@
 // -----------------------------------------------------------------------------
 // This file contains very basic styles.
 // -----------------------------------------------------------------------------
+
+// This is a test
+@import "../abstracts/variables";
+body {
+  font-family: $font-family-primary;
+}
