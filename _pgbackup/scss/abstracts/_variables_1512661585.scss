@@ -1,6 +1,7 @@
-//test comment
+//variables.scss
 $font-family-primary: Lato, sans-serif;
 $font-family-secondary: Roboto, sans-serif;
 
-//test comment between variables
-$p-special: 50px;
+$p-special {
+ font-size:30px;   
+}

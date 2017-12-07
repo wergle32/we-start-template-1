@@ -1,0 +1,12 @@
+// base.scss
+@import '../abstracts/variables';
+body {
+ font-family: $font-family-primary;   
+}
+.h-color {
+    color: blue;
+}
+
+p {
+    color: red;
+}

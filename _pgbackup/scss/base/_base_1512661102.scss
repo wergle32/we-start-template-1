@@ -1,5 +1,5 @@
 // base.scss
-//this is another test comment
+@import '../abstracts/variables';
 
 body {
     font-family: $font-family-primary;
@@ -10,6 +10,5 @@ body {
 }
 
 p {
-    color: #23b643;
-    font-size: $p-special;
+    color: red;
 }
