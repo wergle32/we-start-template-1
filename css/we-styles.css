@@ -8,27 +8,102 @@ p {
     font-family: Open Sans, sans-serif;
 }
 
-.color-prim-0-card {
+.sg-card-color-primary-0 {
     height: 5rem;
     background-color: #173873;
 }
 
-.color-prim-1-card {
+.sg-card-color-primary-1 {
     height: 5rem;
     background-color: #5170A7;
 }
 
-.color-prim-2-card {
+.sg-card-color-primary-2 {
     height: 5rem;
     background-color: #2E5090;
 }
 
-.color-prim-3-card {
+.sg-card-color-primary-3 {
     height: 5rem;
     background-color: #082355;
 }
 
-.color-prim-4-card {
+.sg-card-color-primary-4 {
     height: 5rem;
     background-color: #02112E;
+}
+
+.sg-card-color-secondary-1-0 {
+    height: 5rem;
+    background-color: #AD1414;
+}
+
+.sg-card-color-secondary-1-1 {
+    height: 5rem;
+    background-color: #FB6D6D;
+}
+
+.sg-card-color-secondary-1-2 {
+    height: 5rem;
+    background-color: #D93535;
+}
+
+.sg-card-color-secondary-1-3 {
+    height: 5rem;
+    background-color: #810000;
+}
+
+.sg-card-color-secondary-1-4 {
+    height: 5rem;
+    background-color: #450000;
+}
+
+.sg-card-color-secondary-2-0 {
+    height: 5rem;
+    background-color: #108B10;
+}
+
+.sg-card-color-secondary-2-1 {
+    height: 5rem;
+    background-color: #57C957;
+}
+
+.sg-card-color-secondary-2-2 {
+    height: 5rem;
+    background-color: #2AAD2A;
+}
+
+.sg-card-color-secondary-2-3 {
+    height: 5rem;
+    background-color: #006700;
+}
+
+.sg-card-color-secondary-2-4 {
+    height: 5rem;
+    background-color: #003700;
+}
+
+.sg-card-color-complement-0 {
+    height: 5rem;
+    background-color: #AD7714;
+}
+
+.sg-card-color-complement-1 {
+    height: 5rem;
+    background-color: #FBC96D;
+}
+
+.sg-card-color-complement-2 {
+    height: 5rem;
+    background-color: #D99F35;
+}
+
+.sg-card-color-complement-3 {
+    height: 5rem;
+    background-color: #815300;
+}
+
+.sg-card-color-complement-4 {
+    height: 5rem;
+    background-color: #452D00;
 }
