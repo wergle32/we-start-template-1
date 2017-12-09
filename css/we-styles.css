@@ -1,13 +1,34 @@
 /* main scss wtf really*/
 body {
-    font-family: Lato, sans-serif;
-}
-
-.h-color {
-    color: blue;
+    margin-top: 80px;
+    font-family: Montserrat, sans-serif;
 }
 
 p {
-    color: #23b643;
-    font-size: 50px;
+    font-family: Open Sans, sans-serif;
+}
+
+.color-prim-0-card {
+    height: 5rem;
+    background-color: #173873;
+}
+
+.color-prim-1-card {
+    height: 5rem;
+    background-color: #5170A7;
+}
+
+.color-prim-2-card {
+    height: 5rem;
+    background-color: #2E5090;
+}
+
+.color-prim-3-card {
+    height: 5rem;
+    background-color: #082355;
+}
+
+.color-prim-4-card {
+    height: 5rem;
+    background-color: #02112E;
 }

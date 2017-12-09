@@ -2,14 +2,31 @@
 //this is another test comment
 
 body {
+    margin-top:80px;// this pushes the body down below nav so can see
     font-family: $font-family-primary;
 }
 
-.h-color {
-    color: blue;
+p {
+ font-family: $font-family-secondary;
 }
 
-p {
-    color: #23b643;
-    font-size: $p-special;
+.color-prim-0-card{
+  height: 5rem;
+  background-color: $color-primary-0;
+}
+.color-prim-1-card{
+  height: 5rem;
+  background-color: $color-primary-1;
+}
+.color-prim-2-card{
+  height: 5rem;
+  background-color: $color-primary-2;
+}
+.color-prim-3-card{
+  height: 5rem;
+  background-color: $color-primary-3;
+}
+.color-prim-4-card{
+  height: 5rem;
+  background-color: $color-primary-4;
 }

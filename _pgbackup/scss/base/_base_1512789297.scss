@@ -1,0 +1,11 @@
+// base.scss
+//this is another test comment
+
+body {
+    margin-top:80px;// this pushes the body down below nav so can see
+    font-family: $font-family-primary;
+}
+
+p {
+ font-family: $font-family-secondary;   
+}

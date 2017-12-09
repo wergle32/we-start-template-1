@@ -1,0 +1,14 @@
+/* main scss wtf really*/
+body {
+    margin-top: 80px;
+    font-family: Montserrat, sans-serif;
+}
+
+.h-color {
+    color: blue;
+}
+
+p {
+    color: #23b643;
+    font-size: 50px;
+}
