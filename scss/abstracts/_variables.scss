@@ -5,7 +5,7 @@ $font-family-secondary: Open Sans, sans-serif;
 
 //primary and secondary colors
 
-// As hex codes 
+// As hex codes
 
 $color-primary-0: #173873;	// Main Primary color */
 $color-primary-1: #5170A7;
@@ -58,3 +58,10 @@ $rgba-complement-1: rgba(251,201,109,1);
 $rgba-complement-2: rgba(217,159, 53,1);
 $rgba-complement-3: rgba(129, 83,  0,1);
 $rgba-complement-4: rgba( 69, 45,  0,1);
+
+// light, normal and dark text
+$normal-text: #242424;
+$dark-text: #181818;
+$darkest-text: #050502;
+$lite-text: #6b6b6b;
+$litest-text: #aeaaaa;

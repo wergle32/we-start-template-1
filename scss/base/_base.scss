@@ -9,3 +9,14 @@ body {
 p {
  font-family: $font-family-secondary;
 }
+
+a{
+  color:$normal-text;
+}
+a:link{
+  text-decoration: underline;
+  color:$normal-text;
+}
+a:hover{
+  color:$dark-text;
+}

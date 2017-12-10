@@ -8,6 +8,19 @@ p {
     font-family: Open Sans, sans-serif;
 }
 
+a {
+    color: #242424;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #242424;
+}
+
+a:hover {
+    color: #181818;
+}
+
 .sg-card-color-primary-0 {
     height: 5rem;
     background-color: #173873;
@@ -106,4 +119,16 @@ p {
 .sg-card-color-complement-4 {
     height: 5rem;
     background-color: #452D00;
+}
+
+.normal-text {
+    color: #242424;
+}
+
+.dark-text {
+    color: #181818;
+}
+
+.lite-text {
+    color: #6b6b6b;
 }
